@@ -10,8 +10,10 @@
   <img align="center" alt="Wagner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wagner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Wagner-yoda" height="100" width="200"src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<br>
 </div>
-  
+ <br>
+   <img src="https://komarev.com/ghpvc/?username=wagnerlimadasilvadeveloper&color=green" alt="wagnerlimadasilvadeveloper" /> 
   <div> 
   <a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
